@@ -72,10 +72,10 @@ Gunakan data referensi berikut sebagai panduan input:
 
 | ID   | Langkah                                             | Hasil yang Diharapkan                              | Catatan |
 |------|-----------------------------------------------------|----------------------------------------------------|---------|
-| 1.1.1 | [ ] Buka `http://127.0.0.1:8000/`                 | Halaman landing tampil tanpa error                 |         |
-| 1.1.2 | [ ] Buka `http://127.0.0.1:8000/leaderboard`      | Papan peringkat publik tampil (data kosong OK)     |         |
-| 1.1.3 | [ ] Buka `http://127.0.0.1:8000/sips/dashboard`   | Diarahkan ke halaman login                         |         |
-| 1.1.4 | [ ] Buka `http://127.0.0.1:8000/sips/warga`       | Diarahkan ke halaman login                         |         |
+| 1.1.1 | [✅] Buka `http://127.0.0.1:8000/`                 | Halaman landing tampil tanpa error                 |         |
+| 1.1.2 | [✅] Buka `http://127.0.0.1:8000/leaderboard`      | Papan peringkat publik tampil (data kosong OK)     |         |
+| 1.1.3 | [✅] Buka `http://127.0.0.1:8000/sips/dashboard`   | Diarahkan ke halaman login                         |         |
+| 1.1.4 | [✅] Buka `http://127.0.0.1:8000/sips/warga`       | Diarahkan ke halaman login                         |         |
 
 ### 1.2 Login
 
